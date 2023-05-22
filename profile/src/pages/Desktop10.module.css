@@ -1,0 +1,351 @@
+.desktop10Child,
+.desktop10Item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 47px 13px rgba(0, 0, 0, 0.03);
+  width: 1440px;
+  height: 84px;
+}
+.desktop10Item {
+  top: 169px;
+  left: 64px;
+  width: 1311px;
+  height: 880px;
+}
+.userProfile {
+  position: absolute;
+  top: 116px;
+  left: 67px;
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--color-gray);
+}
+.admin {
+  position: absolute;
+  top: 23px;
+  left: 258px;
+  font-size: var(--font-size-lg);
+}
+.haakimAli,
+.managment {
+  position: absolute;
+  color: var(--color-gray);
+}
+.managment {
+  top: 44px;
+  left: 258px;
+  font-size: 11px;
+}
+.haakimAli {
+  top: 30px;
+  left: 1229px;
+  font-size: var(--font-size-lg);
+}
+.desktop10Inner,
+.iconLogOut {
+  position: absolute;
+  top: 26px;
+  left: 1186px;
+  width: 28.71px;
+  height: 29px;
+}
+.iconLogOut {
+  height: 2.1%;
+  width: 1.71%;
+  top: 2.56%;
+  right: 4.13%;
+  bottom: 95.34%;
+  left: 94.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 25px;
+  left: 226px;
+  background-color: var(--color-gainsboro);
+  width: 2px;
+  height: 31px;
+}
+.desktop10Child1,
+.groupIcon {
+  position: absolute;
+  top: 18px;
+  left: 47px;
+  width: 148px;
+  height: 101px;
+}
+.desktop10Child1 {
+  top: 84px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 2px;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 254px;
+  left: 203px;
+  width: 178px;
+  height: 178px;
+  object-fit: cover;
+}
+.applicantsNameBangla {
+  position: absolute;
+  top: 280px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.applicantsNameBangla,
+.applicantsNameEnglish,
+.div {
+  left: 446px;
+  width: 229px;
+  height: 20px;
+}
+.div {
+  position: absolute;
+  top: 300px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.applicantsNameEnglish {
+  top: 333px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.abdulJalilMiya,
+.applicantsNameEnglish,
+.userVerified {
+  position: absolute;
+  display: inline-block;
+}
+.abdulJalilMiya {
+  top: 353px;
+  left: 446px;
+  font-size: var(--font-size-base);
+  width: 201px;
+  height: 20px;
+}
+.userVerified {
+  top: 9px;
+  left: 56px;
+  width: 498.13px;
+  height: 49.57px;
+}
+.checkVerified03Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44.61px;
+  height: 44.61px;
+  overflow: hidden;
+}
+.userVerifiedParent {
+  position: absolute;
+  top: 391px;
+  left: 442px;
+  width: 554.13px;
+  height: 58.57px;
+  font-size: 26px;
+}
+.personalInformation {
+  top: 517px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  width: 299px;
+  height: 17px;
+}
+.ahsanSikder,
+.fathersNameEnglish,
+.nidCard,
+.personalInformation {
+  position: absolute;
+  left: 205px;
+  display: inline-block;
+}
+.nidCard {
+  top: 687px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  width: 299px;
+  height: 17px;
+}
+.ahsanSikder,
+.fathersNameEnglish {
+  height: 20px;
+}
+.fathersNameEnglish {
+  top: 560px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  width: 168px;
+}
+.ahsanSikder {
+  top: 583px;
+  font-size: var(--font-size-base);
+  width: 127px;
+}
+.mothersNameEnglish {
+  top: 616px;
+  left: 205px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+  width: 168px;
+  height: 20px;
+}
+.fahmedaKhan,
+.gender,
+.mothersNameEnglish {
+  position: absolute;
+  display: inline-block;
+}
+.fahmedaKhan {
+  top: 639px;
+  left: 205px;
+  font-size: var(--font-size-base);
+  width: 121px;
+  height: 20px;
+}
+.gender {
+  top: 560px;
+  left: 453px;
+  color: var(--color-dimgray);
+  width: 229px;
+  height: 18px;
+}
+.div1,
+.male {
+  position: absolute;
+  top: 582px;
+  left: 452px;
+  font-size: var(--font-size-base);
+}
+.div1 {
+  top: 635px;
+  left: 453px;
+  font-weight: 500;
+  display: inline-block;
+  width: 143px;
+  height: 21px;
+}
+.dateOfBirth,
+.frontPart {
+  color: var(--color-dimgray);
+  width: 229px;
+  height: 18px;
+}
+.dateOfBirth {
+  position: absolute;
+  top: 613px;
+  left: 453px;
+  display: inline-block;
+}
+.frontPart {
+  top: 716px;
+  left: 203px;
+}
+.backPart,
+.div2,
+.frontPart,
+.nidCardNumber {
+  position: absolute;
+  display: inline-block;
+}
+.backPart {
+  top: 714px;
+  left: 699px;
+  color: var(--color-dimgray);
+  width: 229px;
+  height: 18px;
+}
+.div2,
+.nidCardNumber {
+  left: 694px;
+  font-weight: 500;
+  height: 20px;
+}
+.nidCardNumber {
+  top: 560px;
+  color: var(--color-dimgray);
+  width: 229px;
+}
+.div2 {
+  top: 583px;
+  font-size: var(--font-size-base);
+  width: 153px;
+}
+.desktop10Child2 {
+  position: absolute;
+  top: 460px;
+  left: 193px;
+  background-color: var(--color-gainsboro);
+  width: 1107px;
+  height: 2px;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 16.04%;
+  width: 22.82%;
+  top: 63.31%;
+  right: 28.69%;
+  bottom: 20.65%;
+  left: 48.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image4Icon {
+  position: absolute;
+  top: 745px;
+  left: 203px;
+  width: 334px;
+  height: 190px;
+  object-fit: cover;
+}
+.desktop10Child3 {
+  position: absolute;
+  top: 310px;
+  left: 972px;
+  border-radius: 7px;
+  background-color: #dcebff;
+  border: 2px solid #1576d0;
+  box-sizing: border-box;
+  width: 328px;
+  height: 74px;
+}
+.currentAge,
+.years2Months {
+  position: absolute;
+  left: 993px;
+  display: inline-block;
+}
+.years2Months {
+  top: 346px;
+  font-size: 23px;
+  font-weight: 600;
+  color: #0c5190;
+  width: 276px;
+}
+.currentAge {
+  top: 323px;
+  font-weight: 500;
+  color: #4173a0;
+  width: 229px;
+  height: 20px;
+}
+.desktop10 {
+  position: relative;
+  background-color: #eef2f6;
+  width: 100%;
+  height: 1172px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

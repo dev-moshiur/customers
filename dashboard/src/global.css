@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --ns-desktop-body-2-r-16-140: "Nunito Sans";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --ns-desktop-body-2-r-16-140-size: 16px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-27xl: 46px;
+
+  /* Colors */
+  --color-gray-100: #fafafa;
+  --text-black: #212121;
+  --color-gray-200: rgba(0, 0, 0, 0.6);
+  --info: #2f80ed;
+  --bg-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-ghostwhite: #f3f5ff;
+  --color-mediumblue: #0c31f1;
+  --color-red: #ff0000;
+  --color-forestgreen: #1b9320;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+}
