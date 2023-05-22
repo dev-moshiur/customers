@@ -132,10 +132,10 @@
         .middle{
             display: grid;
             grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-            row-gap: 16px;
-            column-gap: 16px;
+            row-gap: 12px;
+            column-gap: 5px;
             margin-top: 10px;
-            max-width: 660px;
+            max-width: 640px;
             .item{
                 display: flex;
                 flex-direction: column;
