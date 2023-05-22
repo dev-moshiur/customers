@@ -18,7 +18,8 @@
 
         .head{
             margin: 16px 0px;
-            font-size: 22px;
+            font-size: 18px;
+            font-weight: 500;
 
         }
 
@@ -33,6 +34,12 @@
                 align-items: center;
                 row-gap: 16px;
             }
+            .left{
+                display: flex;
+                align-items: center;
+                column-gap: 30px;
+
+         
             .imageContainer{
                 img{
                     width: 140px;
@@ -51,6 +58,8 @@
                     }
                     .value{
                         margin-top: 7px;
+                        font-weight: 500;
+                        font-size: 18px;
 
                     }
 
@@ -71,7 +80,7 @@
                     }
                 }
 
-            }
+            }   }
             .age{
                 width: 328px;
                 height: 74px;
@@ -101,10 +110,11 @@
         }
         .middle{
             display: grid;
-            grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+            grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
             row-gap: 16px;
             column-gap: 16px;
             margin-top: 10px;
+            max-width: 660px;
             .item{
                 display: flex;
                 flex-direction: column;
@@ -112,6 +122,8 @@
 
                 }
                 .value{
+                    font-weight: 500;
+                    font-size: 19px;
 
                 }
 
@@ -122,7 +134,7 @@
             display: flex;
             align-items: flex-start;
             justify-content: space-between;
-            column-gap: 20px;
+            column-gap: 10px;
             .imgContainer{
                 flex: 1 1 100px;
                 display: flex;
@@ -133,6 +145,7 @@
                 }
                 img{
                     width: 100%;
+                    max-width: 290px;
 
                 }
 
